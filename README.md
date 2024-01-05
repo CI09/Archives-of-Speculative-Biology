@@ -9,4 +9,4 @@ Creators (probably) would appreciate attribution (credit) in resulting works, bu
 
 ## I want to give my works to the archives.
 
-**IMPORTANT: by sending pull request you agree that any files and works within it will be given to the *public domain* and licensed under (the same license the repository is made upon).**
+**IMPORTANT: by sending pull request you agree that any files and works within it will be given to the *public domain* and licensed under [the same license the repository is made upon](https://github.com/CI09/Archives-of-Speculative-Biology/blob/9ad17e2a91efa812dd66c37ceb9b2ac3ac687315/LICENSE).**
