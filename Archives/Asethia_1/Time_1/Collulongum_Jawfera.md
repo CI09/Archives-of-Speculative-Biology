@@ -33,4 +33,4 @@ Ferilized spores then develop branch-like structure which help them fly once the
 to reproduce.
 
 ## Symbiotic Relationships
-*Collulongum Jawfera* Fixes nitrogen from atmosphere and shares it with [Hocfolium Mhrana](https://github.com/CI09/Archives-of-Speculative-Biology/blob/branch_1/Archives/Asethia_1/Time_1/Hocfolium_Mhrana.md), connected to its roots in exchange for nutrients.
+*Collulongum Jawfera* Fixes nitrogen from atmosphere and shares resulting nitrates with [Hocfolium Mhrana](https://github.com/CI09/Archives-of-Speculative-Biology/blob/branch_1/Archives/Asethia_1/Time_1/Hocfolium_Mhrana.md), connected to its roots in exchange for nutrients.
