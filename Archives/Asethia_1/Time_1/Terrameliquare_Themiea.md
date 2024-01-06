@@ -1,4 +1,4 @@
-# Terrameliquare Themiea (Themiea)
+# Capitidescendita Themiea (Themiea)
 Inherited from: __________
 ## Classification
 **Domain**: Eukaryota
