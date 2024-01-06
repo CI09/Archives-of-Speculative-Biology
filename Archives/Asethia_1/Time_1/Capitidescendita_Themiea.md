@@ -18,14 +18,14 @@ Inherited from: __________
 ## Biology
 **Average lifespan**: 35 years
 
-**Maturation age**: 10 months
+**Average maturation age**: 10 months
 
 **Preffered temperatures**: 5℃ - 25℃
 
 **Activity**: Diurnal
 
 ### Reproduction
-*Terrameliquare Themiea* reproduces (**that method I am afraid to write here for some reason**). 
+*Terrameliquare Themiea* reproduces sexually, with no mating seasons. 
 
 Birth is given after 3-months long viviparity period. The mother organism then takes care of the young organism for approximately 10 months after which it abandons it continueing its preffered lifestyle once the younger reaches maturation.
 
