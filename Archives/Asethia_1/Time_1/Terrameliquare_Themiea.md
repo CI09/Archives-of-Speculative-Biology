@@ -9,9 +9,11 @@ Inherited from: __________
 
 **Class**: Mammalia
 
-**Order**: Capitidescendita
+**Order**: Quattopollicea
 
-**Family**: Quattopollicea
+**Family**: Terrameliquare
+
+**Genus**: Capitidescendita
 
 ## Biology
 **Average lifespan**: 35 years
